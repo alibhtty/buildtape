@@ -216,6 +216,7 @@ z-index:99;
   z-index:99;
 `;const w9=ye.div`
   width: 100%;
+  height: 100vh;
   perspective: 2000;
   display: flex;
   align-items: center;
@@ -224,6 +225,7 @@ z-index:99;
   width: 285px;
   height: 420px;
   display: flex;
+  margin-top:-10vh;
   flex-direction: column;
   border-radius: 20px;
   box-shadow: 0 2px 7px 1px rgba(31, 31, 31, 0.2);
